@@ -1,0 +1,21 @@
+{
+  "name": "torrent-finder",
+  "version": "0.0.1",
+  "description": "A sample Node.js app to browse for torrent files",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/superfly72/messinwithcode"
+  },
+  "author": "Roy Henley",
+  "license": "MIT"
+}
